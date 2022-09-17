@@ -19,7 +19,7 @@ barbijo_mas_caro=0
 mayor_cantidad=0
 flag_barbijo=True
 
-for productos in range(2):
+for productos in range(5):
     tipo = input("Ingrese el tipo de producto: 'barbijo', 'jabon' 'alcohol ': \n")
 
     while (tipo!="barbijo" and tipo!="jabon" and tipo!= "alcohol"):
